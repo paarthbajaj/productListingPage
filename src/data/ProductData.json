@@ -1,0 +1,65 @@
+{
+  "productData": [
+    {
+      "id": 1,
+      "productName": "Tshirt",
+      "description": "Lorem ipsum",
+      "price": "499",
+      "size": "S",
+      "brand": "Adidas",
+      "idealFor": "Men",
+
+      "thumbnail": "https://rukminim1.flixcart.com/image/580/696/kekadu80-0/t-shirt/m/d/t/xl-jrkbelvrl09-jorkk-original-imafv84yuhgzuamg.jpeg?q=50"
+    },
+    {
+      "id": 2,
+      "productName": "Shirt",
+      "description": "Lorem ipsum",
+      "price": "999",
+      "size": "M",
+      "brand": "Nike",
+      "idealFor": "Men",
+      "thumbnail": "https://rukminim1.flixcart.com/image/580/696/kfoapow0-0/shirt/1/l/t/m-c1276-gespo-original-imafw2gqdztqdkyu.jpeg?q=50"
+    },
+    {
+      "id": 3,
+      "productName": "Hoodie",
+      "description": "Lorem ipsum",
+      "price": "1199",
+      "size": "L",
+      "brand": "Puma",
+      "idealFor": "Women",
+      "thumbnail": "https://rukminim1.flixcart.com/image/580/696/k572gsw0/sweatshirt/2/a/z/s-2929-the-dry-state-original-imafnxw8df5s2vc8.jpeg?q=50"
+    },
+    {
+      "id": 4,
+      "productName": "Vest",
+      "description": "Lorem ipsum",
+      "price": "299",
+      "size": "XL",
+      "brand": "Lux",
+      "idealFor": "Men",
+      "thumbnail": "https://rukminim1.flixcart.com/image/580/696/jv44mfk0/vest/g/p/v/m-1pvestnycity-gry-jugular-original-imafg234dqfpt98c.jpeg?q=50"
+    },
+    {
+      "id": 5,
+      "productName": "Women Kurta",
+      "description": "Lorem ipsum",
+      "price": "799",
+      "size": "M",
+      "brand": "Biba",
+      "idealFor": "Women",
+      "thumbnail": "https://rukminim1.flixcart.com/image/580/696/kg8avm80-0/kurta/a/r/v/xxl-ku233-mahageeta-original-imafwgc6anhxcsms.jpeg?q=50"
+    },
+    {
+      "id": 6,
+      "productName": "Saree",
+      "description": "Lorem ipsum",
+      "price": "4999",
+      "size": "L",
+      "brand": "Biba",
+      "idealFor": "Women",
+      "thumbnail": "https://rukminim1.flixcart.com/image/580/696/kflftzk0-0/sari/o/y/c/free-hitesh2series-fumvel-unstitched-original-imafwypg4fwky3a7.jpeg?q=50"
+    }
+  ]
+}
